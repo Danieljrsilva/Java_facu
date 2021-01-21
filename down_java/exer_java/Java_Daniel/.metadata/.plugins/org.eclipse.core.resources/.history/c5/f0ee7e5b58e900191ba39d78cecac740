@@ -1,0 +1,11 @@
+
+public class testa {
+
+	public static void main(String[] args) {
+		c obj = new c(9,9);
+		
+		System.out.println("Resultado = " + obj.calc());
+
+	}
+
+}

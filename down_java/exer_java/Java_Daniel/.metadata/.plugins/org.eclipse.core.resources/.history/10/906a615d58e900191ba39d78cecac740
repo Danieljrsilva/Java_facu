@@ -1,0 +1,15 @@
+
+public class c {
+	public int a1;
+	public int a2;
+	
+	
+	c(int a1,int a2){
+		this.a1=a1;
+		this.a2=a2;
+	}
+	
+	public int calc() {
+		return a1*a2;
+	}
+}
